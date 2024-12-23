@@ -34,7 +34,7 @@ title: Publications
 
 - [Question-guided feature pyramid network for medical visual question answering](https://www.sciencedirect.com/science/article/abs/pii/S0957417422021662)<br>Yonglin Yu, Haifeng Li, Hanrong Shi, **Lin Li***, Jun Xiao<br>Expert Systems with Applications (ESWA) <br>2023.<br>
 
-- [Explore video clip order with self-supervised and curriculum learning for video applications](https://ieeexplore.ieee.org/abstract/document/9204376)<br>Jun Xiao, **Lin Li**♡, Dejing Xu, Chengjiang Long, Jian Shao, Shifeng Zhang, Shiliang Pu, Yueting Zhuango<br>IEEE Transactions on Multimedia (TMM) <br>2023.<br>
+- [Explore video clip order with self-supervised and curriculum learning for video applications](https://ieeexplore.ieee.org/abstract/document/9204376)<br>Jun Xiao, **Lin Li**♡, Dejing Xu, Chengjiang Long, Jian Shao, Shifeng Zhang, Shiliang Pu, Yueting Zhuango<br>IEEE Transactions on Multimedia (TMM) <br>2020.<br>
 
 
 ## Ongoing Project
