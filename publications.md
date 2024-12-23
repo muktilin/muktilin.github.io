@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-> (†: equal contribution, ~: corresponding author, ♡: Student first author)
+> (†: equal contribution, *: corresponding author, ♡: Student first author)
 
 ## Conference Paper
 
