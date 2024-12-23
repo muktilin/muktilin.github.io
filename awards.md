@@ -9,7 +9,7 @@ title: Awards
 ## Scholarships
 
 - 2024: Outstanding PhD graduate of Zhejiang University
-- 2023: Academic Star Training Program for Doctoral Students in ZJU
+- 2023: Academic Star Training Program for Doctoral Students in Zhejiang University
 - 2022: Transfar Group Scholarship at Zhejiang University
 - 2021: National Scholarship at Zhejiang University
 
