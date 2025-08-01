@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Lin Li"
   avatar           : "images/photo.png"
-  bio              : "Postdoctoral Fellow at Ai Chip Center for Emerging Smart Systems (ACCESS), HKUST"
+  bio              : "Postdoctoral Fellow at AI Chip Center for Emerging Smart Systems (ACCESS), HKUST"
   location         : "Hong Kong, China"
   employer         :
   pubmed           : 
@@ -58,7 +58,6 @@ author:
   youtube          :
   wikipedia        :
 
-<script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=NTFqy9jChMYtd8NdhPCa94zBt-ci4mIYmcKgF3D4tXA"></script>
 # Reading Files
 include:
   - .htaccess
