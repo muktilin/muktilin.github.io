@@ -88,6 +88,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 </div>
 </div>
 
+
 (†: corresponding author, *: equal contribution, ♢: Student first author)
 
 - `ACM MM 2025` [Zero-shot compositional action recognition with neural logic constraints.]() Gefan Ye\*, **Lin Li\*†**, Kexin Li\*, Jun Xiao, Long Chen
