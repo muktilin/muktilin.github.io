@@ -89,7 +89,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 </div>
 
 
-(†: corresponding author, *: equal contribution, ♢: Student first author)
+(†: Corresponding author, *: Equal contribution, ♢: Student first author)
+
 
 - `ACM MM 2025` [Zero-shot compositional action recognition with neural logic constraints.]() Gefan Ye\*, **Lin Li\*†**, Kexin Li\*, Jun Xiao, Long Chen
 
@@ -110,7 +111,6 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - `TMM 2020` [Explore video clip order with self-supervised and curriculum learning for video applications.](https://ieeexplore.ieee.org/abstract/document/9204376)<br>Jun Xiao, **Lin Li♢**, Dejing Xu, Chengjiang Long, Jian Shao, Shifeng Zhang, Shiliang Pu, Yueting Zhuang
 
-  
 
 
 # 🎖 Honors and Awards
