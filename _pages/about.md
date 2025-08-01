@@ -104,10 +104,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - `TCSVT 2023` [Label semantic knowledge distillation for unbiased scene graph generation.](https://ieeexplore.ieee.org/abstract/document/10143319) **Lin Li**, Jun Xiao, Hanrong Shi, Wenxiao Wang, Jian Shao, An-An Liu, Yi Yang, Long Chen.
 
+- `ICME 2023` [Addressing predicate overlap in scene graph generation with semantic granularity controller.](https://ieeexplore.ieee.org/abstract/document/10219806)<br>Guikun Chen\*, **Lin Li\***, Yawei Luo, Jun Xiao
+   
 - `ESWA 2023` [Question-guided feature pyramid network for medical visual question answering.](https://www.sciencedirect.com/science/article/abs/pii/S0957417422021662) Yonglin Yu, Haifeng Li, Hanrong Shi, **Lin Li†** 
 
 - `ACM MM 2021 Oral` [Instance-wise or class-wise? a tale of neighbor shapley for concept-based explanation.](https://dl.acm.org/doi/abs/10.1145/3474085.3475337) Jiahui Li, Kun Kuang, **Lin Li**, Long Chen, Songyang Zhang, Jian Shao, Jun Xiao
-
 
 - `TMM 2020` [Explore video clip order with self-supervised and curriculum learning for video applications.](https://ieeexplore.ieee.org/abstract/document/9204376)<br>Jun Xiao, **Lin Li♢**, Dejing Xu, Chengjiang Long, Jian Shao, Shifeng Zhang, Shiliang Pu, Yueting Zhuang
 
