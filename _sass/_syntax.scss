@@ -34,13 +34,14 @@ div.highlighter-rouge, figure.highlight {
 }
 
 .highlighter-rouge{
-  background-color: #e3f2fd;
-  border: 1px solid #bbdefb; 
-  padding: 0.5em;
-  margin-bottom: 0.8em;
-  border-radius: 4px; 
+  background-color: #0055aa; 
+  color: white; 
+  font-weight: bold; 
+  padding: 3px 10px; 
+  border-radius: 2px;
+  display: inline-block;
+  text-align: center;
   font-size: $type-size-8;
-
 }
 
 .highlight table td { padding: 5px; }
