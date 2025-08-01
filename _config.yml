@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Lin Li"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : " "
 repository               : "muktilin/muktilin.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -22,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Lin Li"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/photo.png"
   bio              : "Postdoctoral Fellow at Ai Chip Center for Emerging Smart Systems (ACCESS), HKUST"
   location         : "Hong Kong, China"
   employer         :
