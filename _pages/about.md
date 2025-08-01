@@ -90,19 +90,19 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 (†: corresponding author, *: equal contribution, ♢: Student first author)
 
-- `ACM MM 2025` [Zero-shot compositional action recognition with neural logic constraints.]() Gefan Ye*, **Lin Li†\***, Kexin Li\*, Jun Xiao, Long Chen
+- `ACM MM 2025` [Zero-shot compositional action recognition with neural logic constraints.]() Gefan Ye\*, **Lin Li\*†**, Kexin Li\*, Jun Xiao, Long Chen
 
-- `CVPR 2025 Highlight` [Comm: A coherent interleaved image-text dataset for multimodal understanding and generation.](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Chen_CoMM_A_Coherent_CVPR_2025_supplemental.pdf) Wei Chen*, **Lin Li***, Yongqi Yang*, Bin Wen, Fan Yang, Tingting Gao, Yu Wu, Long Chen
+- `CVPR 2025 Highlight` [Comm: A coherent interleaved image-text dataset for multimodal understanding and generation.](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Chen_CoMM_A_Coherent_CVPR_2025_supplemental.pdf) Wei Chen\*, **Lin Li\***, Yongqi Yang*, Bin Wen, Fan Yang, Tingting Gao, Yu Wu, Long Chen
 
 - `PR 2025` [Knowledge Integration for Grounded Situation Recognition.](https://www.sciencedirect.com/science/article/abs/pii/S0031320325004261) Jiaming Lei, Sijing Wu, **Lin Li†**, Lei Chen, Jun Xiao, Yi Yang, Long Chen
 
 - `ACM MM 2024` [Seeing beyond classes: Zero-shot grounded situation recognition via language explainer.](https://dl.acm.org/doi/abs/10.1145/3664647.3681036) Jiaming Lei, **Lin Li†**, Chunping Wang, Jun Xiao, Long Chen
 
-- `IJCV 2024` [From easy to hard: Learning curricular shape-aware features for robust panoptic scene graph generation.](https://link.springer.com/article/10.1007/s11263-024-02190-9) Hanrong Shi*, **Lin Li†\***, Jun Xiao, Yueting Zhuang, Long Chen.
+- `IJCV 2024` [From easy to hard: Learning curricular shape-aware features for robust panoptic scene graph generation.](https://link.springer.com/article/10.1007/s11263-024-02190-9) Hanrong Shi\*, **Lin Li\*†**, Jun Xiao, Yueting Zhuang, Long Chen.
 
 - `TCSVT 2023` [Label semantic knowledge distillation for unbiased scene graph generation.](https://ieeexplore.ieee.org/abstract/document/10143319) **Lin Li**, Jun Xiao, Hanrong Shi, Wenxiao Wang, Jian Shao, An-An Liu, Yi Yang, Long Chen.
 
-- `ESWA 2023` [Question-guided feature pyramid network for medical visual question answering.](https://www.sciencedirect.com/science/article/abs/pii/S0957417422021662) Yonglin Yu, Haifeng Li, Hanrong Shi, **Lin Li*** 
+- `ESWA 2023` [Question-guided feature pyramid network for medical visual question answering.](https://www.sciencedirect.com/science/article/abs/pii/S0957417422021662) Yonglin Yu, Haifeng Li, Hanrong Shi, **Lin Li†** 
 
 - `ACM MM 2021 Oral` [Instance-wise or class-wise? a tale of neighbor shapley for concept-based explanation.](https://dl.acm.org/doi/abs/10.1145/3474085.3475337) Jiahui Li, Kun Kuang, **Lin Li**, Long Chen, Songyang Zhang, Jian Shao, Jun Xiao
 
