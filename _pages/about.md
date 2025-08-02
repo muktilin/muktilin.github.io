@@ -47,7 +47,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 **Lin Li**, Jun Xiao, Hanrong Shi, Hanwang Zhang, Yi Yang, Wei Liu, Long Chen
 
 [**Code**](https://github.com/HKUST-LongGroup/NICEST)
-- A out-of-distribution scene graph generation dataset VG-OOD and a debiased Knowledge distillation strategy.
+- An out-of-distribution scene graph generation dataset VG-OOD and a debiased Knowledge distillation strategy.
 </div>
 </div>
 
