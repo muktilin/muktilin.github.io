@@ -96,7 +96,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - `CVPR 2025 Highlight` [Comm: A coherent interleaved image-text dataset for multimodal understanding and generation.](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Chen_CoMM_A_Coherent_CVPR_2025_supplemental.pdf) Wei Chen\*, **Lin Li\***, Yongqi Yang*, Bin Wen, Fan Yang, Tingting Gao, Yu Wu, Long Chen
 
-- `PR 2025` [Knowledge Integration for Grounded Situation Recognition.](https://www.sciencedirect.com/science/article/abs/pii/S0031320325004261) Jiaming Lei, Sijing Wu, **Lin Li†**, Lei Chen, Jun Xiao, Yi Yang, Long Chen
+- `PR 2025` [Knowledge integration for grounded situation recognition.](https://www.sciencedirect.com/science/article/abs/pii/S0031320325004261) Jiaming Lei, Sijing Wu, **Lin Li†**, Lei Chen, Jun Xiao, Yi Yang, Long Chen
 
 - `ACM MM 2024` [Seeing beyond classes: Zero-shot grounded situation recognition via language explainer.](https://dl.acm.org/doi/abs/10.1145/3664647.3681036) Jiaming Lei, **Lin Li†**, Chunping Wang, Jun Xiao, Long Chen
 
