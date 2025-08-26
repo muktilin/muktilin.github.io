@@ -91,7 +91,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 (†: Corresponding author, *: Equal contribution, ♢: Student first author)
 
-- `EMNLP 2025` [RED: Unleashing Token-Level Rewards from Holistic Feedback via Reward Redistribution.]() Jiahui Li\*, **Lin Li\***, Tai-Wei Chang, Kun Kuang, Long Chen, Jun Zhou, Cheng Yang
+- `EMNLP 2025` [RED: Unleashing Token-Level Rewards from Holistic Feedback via Reward Redistribution.]() Jiahui Li, **Lin Li**, Tai-Wei Chang, Kun Kuang, Long Chen, Jun Zhou, Cheng Yang
 
 - `AI Magazine, 2025` [Recent Advances in Finetuning Multimodal Large Language Models.]() Zhen Wang\*, **Lin Li\***, Long Chen
   
