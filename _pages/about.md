@@ -33,7 +33,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **Lin Li**, Chuhan Zhang, Dong Zhang, Chong Sun, Chen Li, Long Chen
 
-- An interaction-centric end-to-end OVSGG framework that shifts the paradigm from object-level representations to interaction-driven learning. By explicitly encoding interactions during both knowledge infusion and transfer, this framework enables more accurate scene graph generation and robust generalization to unseen categories.
+- An interaction-centric end-to-end OVSGG framework that shifts the paradigm from object-level representations to interaction-driven learning. 
 </div>
 </div>
 
