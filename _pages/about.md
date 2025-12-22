@@ -29,7 +29,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Relation-R1: Progressively Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relation Comprehension](https://arxiv.org/abs/2504.14642)
+[Relation-R1: Progressively cognitive chain-of-thought guided reinforcement learning for unified relation comprehension](https://arxiv.org/abs/2504.14642)
 
 **Lin Li\***, Wei Chen\*, Jiahui Li, Kwang-Ting Cheng, Long Chen
 
