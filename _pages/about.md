@@ -41,7 +41,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Interaction-centric knowledge infusion and transfer for open-vocabulary scene graph generation]()
+[Interaction-centric knowledge infusion and transfer for open-vocabulary scene graph generation](https://arxiv.org/abs/2511.05935)
 
 **Lin Li**, Chuhan Zhang, Dong Zhang, Chong Sun, Chen Li, Long Chen
 
