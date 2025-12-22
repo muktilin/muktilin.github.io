@@ -26,6 +26,18 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Relation-R1: Progressively Cognitive Chain-of-Thought Guided Reinforcement Learning for Unified Relation Comprehension](https://arxiv.org/abs/2504.14642)
+
+**Lin Li\***, Wei Chen\*, Jiahui Li, Kwang-Ting Cheng, Long Chen
+
+[**Code**](https://github.com/HKUST-LongGroup/Relation-R1)
+- The first unified relation comprehension framework that explicitly integrates cognitive chain-of-thought (CoT)-guided supervised fine-tuning and group relative policy optimization (GRPO) within a reinforcement learning paradigm.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2025</div><img src='images/nips25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -33,6 +45,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 **Lin Li**, Chuhan Zhang, Dong Zhang, Chong Sun, Chen Li, Long Chen
 
+[**Code**](https://github.com/HKUST-LongGroup/ACC)
 - An interaction-centric end-to-end OVSGG framework that shifts the paradigm from object-level representations to interaction-driven learning. 
 </div>
 </div>
