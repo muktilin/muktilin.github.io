@@ -140,8 +140,11 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 
 # 🎖 Honors and Awards
+- *2025* ACM HZ Chapter Doctoral Dissertation Award.
+- *2025* 2nd Place in the Data Curation for Vision Language Reasoning (DCVLR) Challenge. NeurIPS 2025.
 - *2023.10* Academic Star Training Program for Doctoral Students in Zhejiang University.
 - *2022.09* Transfar Group Scholarship at Zhejiang University.
 - *2021.09* National Scholarship.
+- *2019* 1st Place in the ImageCLEF Visual Question Answering (VQA) Challenge 2019.
 - *2017.09* National Scholarship.
 
