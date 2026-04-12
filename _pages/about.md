@@ -26,6 +26,17 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 
 # 📝 Publications 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/ijcv26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Multi-level compositional feature augmentation for unbiased scene graph generation](https://arxiv.org/abs/2308.06712v2)
+
+**Lin Li\***, Xingchen Li\*, Chong Sun, Chen Li, Long Chen
+
+- A model-agnostic strategy that mitigates long-tailed bias by enhancing the diversity of relation triplet features through feature-level compositions and image-level generative augmentation.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -113,11 +124,15 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 (†: Corresponding author, *: Equal contribution, ♢: Student first author)
 
-- `EMNLP 2025` [RED: Unleashing Token-Level Rewards from Holistic Feedback via Reward Redistribution.]() Jiahui Li, **Lin Li**, Tai-Wei Chang, Kun Kuang, Long Chen, Jun Zhou, Cheng Yang
-
-- `AI Magazine, 2025` [Recent Advances in Finetuning Multimodal Large Language Models.]() Zhen Wang\*, **Lin Li\***, Long Chen
+- `CVPR 2026` [FlowComposer: Composable Flows for Compositional Zero-Shot Learning.](https://arxiv.org/abs/2603.16641) Zhenqi He, **Lin Li**, Long Chen
   
-- `ACM MM 2025` [Zero-shot compositional action recognition with neural logic constraints.]() Gefan Ye\*, **Lin Li\*†**, Kexin Li\*, Jun Xiao, Long Chen
+- `CVPR 2026` [PV-Ground: Text-Guided Point-Voxel Interaction for 3D Visual Grounding.]() Junpeng Shang, Feifei Shao, Jun Xiao, **Lin Li**, Hongwei Wang, Dongfang Ma
+  
+- `EMNLP 2025` [RED: Unleashing Token-Level Rewards from Holistic Feedback via Reward Redistribution.](https://aclanthology.org/2025.emnlp-main.252/) Jiahui Li, **Lin Li**, Tai-Wei Chang, Kun Kuang, Long Chen, Jun Zhou, Cheng Yang
+
+- `AI Magazine, 2025` [Recent Advances in Finetuning Multimodal Large Language Models.](https://onlinelibrary.wiley.com/doi/10.1002/aaai.70025) Zhen Wang\*, **Lin Li\***, Long Chen
+  
+- `ACM MM 2025` [Zero-shot compositional action recognition with neural logic constraints.](https://dl.acm.org/doi/abs/10.1145/3746027.3755134) Gefan Ye\*, **Lin Li\*†**, Kexin Li\*, Jun Xiao, Long Chen
 
 - `CVPR 2025 Highlight` [Comm: A coherent interleaved image-text dataset for multimodal understanding and generation.](https://openaccess.thecvf.com/content/CVPR2025/supplemental/Chen_CoMM_A_Coherent_CVPR_2025_supplemental.pdf) Wei Chen\*, **Lin Li\***, Yongqi Yang*, Bin Wen, Fan Yang, Tingting Gao, Yu Wu, Long Chen
 
