@@ -26,7 +26,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 
 # 📝 Publications 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/ijcv26.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IJCV 2026</div><img src='images/ijcv26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Multi-level compositional feature augmentation for unbiased scene graph generation](https://arxiv.org/abs/2308.06712v2)
@@ -35,7 +35,7 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 - A model-agnostic strategy that mitigates long-tailed bias by enhancing the diversity of relation triplet features through feature-level compositions and image-level generative augmentation.
 </div>
-</div>
+</div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/aaai26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
