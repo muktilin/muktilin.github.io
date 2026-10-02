@@ -19,8 +19,8 @@ redirect_from:
 
 Here is **Lin Li (李琳)**.<br>
 
-I am a postdoctoral fellow in AI Chip Center for Emerging Smart Systems (ACCESS) at the Hong Kong University of Technology and Science (HKUST), advised by [Prof. Kwang-Ting (Tim) Cheng](https://scholar.google.com/citations?user=-SgpaF8AAAAJ&hl=en&oi=ao). Additionally, I collaborate with [Prof. Long Chen](https://zjuchenlong.github.io) at HKUST. Prior to this, I obtained my PhD degree in Computer Science and Technology from Zhejiang University (ZJU), under the supervision of [Prof. Jun Xiao](https://person.zju.edu.cn/junx).<br> 
-My research interest includes Multi-modal Large Language Models and Scene Understanding.
+I am currently a Research Assistant Professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), where I work closely with [Prof. Kwang-Ting (Tim) Cheng](https://scholar.google.com/citations?user=-SgpaF8AAAAJ&hl=en&oi=ao) and [Prof. Long Chen](https://zjuchenlong.github.io). From 2024 to 2026, I was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), HKUST. I received my PhD in Computer Science and Technology from Zhejiang University (ZJU), under the supervision of [Prof. Jun Xiao](https://person.zju.edu.cn/junx).<br>
+My research interests include multimodal large language models and scene understanding.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - lllidy[at]ust.hk
 
@@ -135,6 +135,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 (†: Corresponding author, *: Equal contribution, ♢: Student first author)
 
+- `NeurIPS 2026` [Direct Product Flow Matching: Decoupling Radial and Angular Dynamics for Few-Shot Adaptation.](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=4-z7znIAAAAJ&sortby=pubdate&citation_for_view=4-z7znIAAAAJ:isC4tDSrTZIC) Hongxu Chen, Yanghao Wang, Bowei Zhu, Hongxiang Li, Zhen Wang, Ziqi Jiang, **Lin Li**, Rui Liu, Long Chen
+
 - `CVPR 2026` [FlowComposer: Composable Flows for Compositional Zero-Shot Learning.](https://arxiv.org/abs/2603.16641) Zhenqi He, **Lin Li**, Long Chen
   
 - `CVPR 2026` [PV-Ground: Text-Guided Point-Voxel Interaction for 3D Visual Grounding.]() Junpeng Shang, Feifei Shao, Jun Xiao, **Lin Li**, Hongwei Wang, Dongfang Ma
@@ -173,4 +175,3 @@ If you are interested in any aspect of me, I am always open to discussions and c
 - *2021.09* National Scholarship.
 - *2019* 1st Place in the ImageCLEF Visual Question Answering (VQA) Challenge 2019.
 - *2017.09* National Scholarship.
-
