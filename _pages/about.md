@@ -17,15 +17,20 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
+<div class="intro" markdown="1">
 Here is **Lin Li (李琳)**.<br>
+
+<figure class="coding-companion"><img src="{{ '/images/yier-coding.png' | relative_url }}" width="1254" height="1254" alt="一二 wearing round glasses and writing code at a laptop."></figure>
 
 I am currently a Research Assistant Professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), where I work closely with [Prof. Kwang-Ting (Tim) Cheng](https://scholar.google.com/citations?user=-SgpaF8AAAAJ&hl=en&oi=ao) and [Prof. Long Chen](https://zjuchenlong.github.io). From 2024 to 2026, I was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), HKUST. I received my PhD in Computer Science and Technology from Zhejiang University (ZJU), under the supervision of [Prof. Jun Xiao](https://person.zju.edu.cn/junx).<br>
 My research interests include multimodal large language models and scene understanding.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - lllidy[at]ust.hk
 
+</div>
 
-# 📝 Publications 
+# Publications
+{: #publications }
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/ICML26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -167,7 +172,8 @@ If you are interested in any aspect of me, I am always open to discussions and c
 
 
 
-# 🎖 Honors and Awards
+# Honors and Awards
+{: #honors-and-awards }
 - *2025* ACM HZ Chapter Doctoral Dissertation Award.
 - *2025* 2nd Place in the Data Curation for Vision Language Reasoning (DCVLR) Challenge. NeurIPS 2025.
 - *2023.10* Academic Star Training Program for Doctoral Students in Zhejiang University.

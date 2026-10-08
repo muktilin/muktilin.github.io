@@ -5,7 +5,14 @@
 <div itemscope itemtype="http://schema.org/Person" class="profile_box">
 
   <div class="author__avatar">
-    <img src="{{ author.avatar }}" class="author__avatar" alt="{{ author.name }}">
+    <svg class="bear-portrait" viewBox="0 0 260 235" role="img" aria-label="{{ author.name }} — portrait in a bear-shaped frame">
+      <defs><clipPath id="bear-photo-clip"><path d="M22 151C17 90 60 35 128 34C198 32 242 85 239 151C237 168 246 194 225 208C201 224 57 225 33 210C12 198 21 174 22 151Z"/></clipPath></defs>
+      <circle cx="52" cy="47" r="25" fill="#59382e"/>
+      <circle cx="207" cy="47" r="25" fill="#59382e"/>
+      <path d="M22 151C17 90 60 35 128 34C198 32 242 85 239 151C237 168 246 194 225 208C201 224 57 225 33 210C12 198 21 174 22 151Z" fill="#fff" stroke="#59382e" stroke-width="9"/>
+      <image href="{{ author.avatar | relative_url }}" x="20" y="31" width="222" height="194" preserveAspectRatio="xMidYMid slice" clip-path="url(#bear-photo-clip)"/>
+      <path d="M22 151C17 90 60 35 128 34C198 32 242 85 239 151C237 168 246 194 225 208C201 224 57 225 33 210C12 198 21 174 22 151Z" fill="none" stroke="#59382e" stroke-width="5"/>
+    </svg>
   </div>
 
   <div class="author__content">

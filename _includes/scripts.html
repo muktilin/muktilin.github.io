@@ -1,4 +1,12 @@
 <script src="assets/js/main.min.js"></script>
+<script>
+  jQuery(function ($) {
+    $('.greedy-nav a').attr('target', '_self').smoothScroll({
+      offset: -88,
+      speed: window.matchMedia('(prefers-reduced-motion: reduce)').matches ? 0 : 250
+    });
+  });
+</script>
 
 {% include analytics.html %}
 {% include fetch_google_scholar_stats.html %}
