@@ -23,7 +23,7 @@ Here is **Lin Li (李琳)**.<br>
 <figure class="coding-companion"><img src="{{ '/images/yier-coding.png' | relative_url }}" width="1254" height="1254" alt="一二 wearing round glasses and writing code at a laptop."></figure>
 
 I am currently a Research Assistant Professor in the Department of Computer Science and Engineering (CSE) at the Hong Kong University of Science and Technology (HKUST), where I work closely with [Prof. Kwang-Ting (Tim) Cheng](https://scholar.google.com/citations?user=-SgpaF8AAAAJ&hl=en&oi=ao) and [Prof. Long Chen](https://zjuchenlong.github.io). From 2024 to 2026, I was a Postdoctoral Fellow at the AI Chip Center for Emerging Smart Systems (ACCESS), HKUST. I received my PhD in Computer Science and Technology from Zhejiang University (ZJU), under the supervision of [Prof. Jun Xiao](https://person.zju.edu.cn/junx).<br>
-My research interests include multimodal large language models and scene understanding.
+My research interests include multimodal large language models, embodied AI, and scene understanding.
 
 If you are interested in any aspect of me, I am always open to discussions and collaborations. Feel free to reach out to me at - lllidy[at]ust.hk
 
